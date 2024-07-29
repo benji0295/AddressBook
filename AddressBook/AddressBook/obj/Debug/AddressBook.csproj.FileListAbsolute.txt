@@ -1,0 +1,12 @@
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.AddForm.resources
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.SearchForm.resources
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\bensmith\source\repos\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
